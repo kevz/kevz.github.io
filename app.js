@@ -9,7 +9,7 @@ const data = {
   savings: null,
   dollars: null,
   cents: null,
-  dailyCost: 6.375466667,
+  dailyCost: 5,
   time: 1569958200000// new Date(Oct 1, 2019 -  3:30pm)
 };
 
